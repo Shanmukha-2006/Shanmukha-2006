@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devalamikati Shanmukha</h1>
+<h1 align="center">Hi 👋, I'm DEVALAMKATI SHANMUKHA</h1>
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Excel | Business Intelligence</h3>
 
 <p align="center">
